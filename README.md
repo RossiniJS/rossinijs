@@ -1,5 +1,5 @@
 # RossiniJS 👋
-#####ou Edu (como preferir)
+###### ou Edu (como preferir)
 
 
 <!--
