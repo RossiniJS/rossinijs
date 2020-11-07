@@ -6,7 +6,7 @@ Olá, meu nome é Eduardo Henrique Rossini Braz mas prefiro só Edu :) (gosto de
 ### Detalhes
 
 Tenho 18 anos, comecei a aprender mais sobre técnologia aos 13, porém apenas aos 16 comecei a desenvolver de verdade e a iniciar pequenos projetos com fins didáticos, desde uma simples calculadora à uma interface de usuário completa.
-Comecei à ter curiosidade e a realmente aprender a programar, através dos jogos, desenvolvendo mods pra MTA e até tentando fazer meu próprio jogo através de engines gratuitas. Aprendi as coisas básicas como a lógica em si utilizando a linguagem LUA, e me lembro como se fosse ontem do meu primeiro **print("Hello World")**, ou do meu primeiro **ola = Mundo**.
+Comecei à ter curiosidade e a realmente aprender a programar, através dos jogos, desenvolvendo mods pra MTA e até tentando fazer meu próprio jogo através de engines gratuitas. Aprendi as coisas básicas como a lógica em si utilizando a linguagem LUA, e me lembro como se fosse ontem do meu primeiro **print("Hello World")**, ou do meu primeiro **ola = "Mundo"**.
 
 ### Projetos
 
