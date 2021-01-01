@@ -11,10 +11,10 @@ Comecei à ter curiosidade e a realmente aprender a programar, através dos jogo
 ### Projetos
 
 Atualmente LUA não é mais minha linguagem principal devido à minha mudança para o **desenvolvimento de aplicações web** e **UI's**, estudo JavaScript e pretendo torná-lo minha linguagem principal, e aos poucos vou me apaixonando pela linguagem, assim como nas linguagens de marcação (HTML) e de formatação (CSS).
-No momento sou o desenvolvedor principal e diretor técnico do **Projeto Badland**, que busca inovar no desenvolvimento de interfaces de usuário, também sou o desenvolvedor front-end do **Badland Infinity**, um servidor de GTA RP que busca ser a melhor e mais otimizada cidade do FiveM.
+No momento sou o desenvolvedor principal e diretor técnico do **Projeto Badland**, que busca inovar no desenvolvimento de interfaces de usuário.
 
 GitHub do BDL: https://github.com/badlandproject
-Discord do Badland Infinity: discord.gg/5K4S8aSRP8
+Badland Project à venda em: discord.gg/bABGBEX
 
 ### Redes Sociais
 
