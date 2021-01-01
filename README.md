@@ -14,7 +14,6 @@ Atualmente LUA não é mais minha linguagem principal devido à minha mudança p
 No momento sou o desenvolvedor principal e diretor técnico do **Projeto Badland**, que busca inovar no desenvolvimento de interfaces de usuário.
 
 GitHub do BDL: https://github.com/badlandproject
-Badland Project à venda em: discord.gg/bABGBEX
 
 ### Redes Sociais
 
