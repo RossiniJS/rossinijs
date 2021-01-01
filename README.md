@@ -1,7 +1,7 @@
 # RossiniJS
 ### ou Edu (como preferir)
 
-Olá, meu nome é Eduardo Henrique Rossini Braz mas prefiro só Edu :) (gosto de blackbear)
+Olá, meu nome é Eduardo Henrique Rossini Braz mas prefiro só Edu ou Rossini :)
 
 ### Detalhes
 
